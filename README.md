@@ -1,4 +1,4 @@
-# sleep-audio-botü
+# sleep-audio-bot
 
 
 Application Name: Sleep Audio Factory
